@@ -117,3 +117,5 @@ Moving on, below are the code snippets acquired from main.tf, are for the analys
     - **Name**: The file share is named "fileshareforall" assuming all staffs will be using it.
     - **Storage Account Name**: It's associated with the previously defined storage account "teststorageacc" for creating the share within the account.
     - **Quota**: A quota of 50 GB is set based on the requirement given.
+
+Link to this repo - https://github.com/dxnishG/TerraformFileShare
